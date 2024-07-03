@@ -7,6 +7,7 @@ const Navbar = () => {
         <div>
           welcome to GITHUB
         </div>
+        <p>I am checking with github</p>
     </div>
     // <div style={{display:"flex", justifyContent:"space-between"}}>
     //     <div style={{marginLeft: 30, marginTop: 20}}>Ekathrass</div>
