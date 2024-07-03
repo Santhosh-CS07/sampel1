@@ -1,0 +1,28 @@
+.students_div{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+h1{
+    text-align: center;
+    padding: 10px 0px;
+}
+.student_card{
+    background-color: rgb(63, 31, 138);
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.input_filed {
+    text-align: center;
+    padding-left: 40%;
+    border: 1px solid black;
+    margin: 30px;
+}
+.input_filed >input {
+    display: block;
+    margin: 20px;
+    padding: 10px 20px;
+    text-align: center;
+}
