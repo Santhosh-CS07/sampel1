@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className='flex justify-evenly m-20'>
         <div className='text-blue-900 font-bold text-4xl'>Ekathrass</div>
         <div>
-          hello
+          welcome to GITHUB
         </div>
     </div>
     // <div style={{display:"flex", justifyContent:"space-between"}}>
